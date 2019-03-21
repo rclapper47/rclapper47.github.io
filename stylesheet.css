@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+
+}
+
+#wrapper{
+    padding-top: 80px;
+    width: 960px;
+    margin: 0 auto;
+    
+}
+
+
+body{
+    background: url(../images/BG.jpg)
+    background-color:000000;
+}
+
+h1{
+
+}
+
+p{
+    margin: 0 0 15px 0;
+}
+
+a:link, a:visited{
+    color:#aab3ba;
+    text-decoration:none;
+}
+
+a:hover, a:active{
+    color:#aab3ba;
+}
+
+
+#header{
+    margin: 0 0 50px 0;
+    width: 960px;
+    height: 100px;
+}
+
+#nav{
+    boackground-color: #075dc5;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+
+#nav li{
+    display: inline-block;
+    
+}
+
+#nav a:hover{
+
+}
+
+#bio{
+
+}
+
+d
